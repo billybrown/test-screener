@@ -1,14 +1,14 @@
 ### REQUIRED SETTINGS ###
 
 # Set a plain language title for the site.
-title: USGov Health Information Rights Complaint Form
+title: A Test Screener
 
 # Write a short description for the site. This is used for "meta description."
-description: File a complaint for violations of health information privacy and access rights
+description: Made for the Rapid prototyping for the web using the U.S. Web Design System Workshop
 
 # Enable for live hosting on GitHub Pages.
 # It should start with a slash (/) and then match the name of your repository exactly.
-baseurl: /uswds-screener-prototyping-tool
+baseurl: /test-screener
 
 # =============================================================================
 
